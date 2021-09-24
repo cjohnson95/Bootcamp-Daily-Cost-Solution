@@ -5,6 +5,7 @@ namespace Bootcamp_Daily_Cost {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("To the C# World...");
+            
 
 
             var TotalCost = 15500m;
